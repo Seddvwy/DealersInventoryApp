@@ -97,7 +97,6 @@ src/main/java/com/dealership/inventory/
 
 src/main/resources/
 ├── application.yml
-├── application-test.yml
 └── db/migration/
     ├── V1__create_dealers.sql
     └── V2__create_vehicles.sql
